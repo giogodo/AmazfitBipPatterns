@@ -1,0 +1,73 @@
+{
+    "Background": {
+        "Image": {
+            "ImageIndex": 0,
+            "X": 0,
+            "Y": 0
+        }
+    },
+    "Time": {
+        "Hours": {
+            "Ones": {
+                "ImageIndex": 200,
+                "ImagesCount": 10,
+                "X": 89,
+                "Y": 75
+            },
+            "Tens": {
+                "ImageIndex": 200,
+                "ImagesCount": 10,
+                "X": 80,
+                "Y": 75
+            }
+        },
+        "Minutes": {
+            "Ones": {
+                "ImageIndex": 200,
+                "ImagesCount": 10,
+                "X": 89,
+                "Y": 90
+            },
+            "Tens": {
+                "ImageIndex": 200,
+                "ImagesCount": 10,
+                "X": 80,
+                "Y": 90
+            }
+        }
+    },
+    "Battery": {
+        "Text": {
+            "TopLeftX": 149,
+            "TopLeftY": 162,
+            "BottomRightX": 173,
+            "BottomRightY": 172,
+            "Alignment": "TopLeft",
+            "Spacing": 2,
+            "ImageIndex": 200,
+            "ImagesCount": 10
+        }
+    },
+    "Activity": {
+        "Pulse": {
+            "TopLeftX": 117,
+            "TopLeftY": 162,
+            "BottomRightX": 141,
+            "BottomRightY": 172,
+            "Alignment": "TopLeft",
+            "Spacing": 2,
+            "ImageIndex": 200,
+            "ImagesCount": 10
+        }
+    },
+    "Weather": {
+        "Icon": {
+            "CustomIcon": {
+                "X": 78,
+                "Y": 112,
+                "ImageIndex": 58,
+                "ImagesCount": 26
+            }
+        }
+    }
+}
